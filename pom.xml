@@ -84,7 +84,7 @@
         <version.arquillian.angularjs.graphene>1.2.0.Beta1</version.arquillian.angularjs.graphene>
         <version.com.nimbusds.jose.jwt>5.4</version.com.nimbusds.jose.jwt>
         <version.deltaspike.core>1.5.1</version.deltaspike.core>
-        <version.org.apache.wicket>7.3.0</version.org.apache.wicket>
+        <version.org.apache.wicket>7.18.0</version.org.apache.wicket>
         <version.hibernate4>4.2.21.Final</version.hibernate4>
         <version.hibernate4.validator>4.3.2.Final</version.hibernate4.validator>
         <version.org.json>20150729</version.org.json>
@@ -296,7 +296,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -315,7 +315,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -334,7 +334,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
