@@ -88,7 +88,7 @@
         <version.hibernate4>4.2.21.Final</version.hibernate4>
         <version.hibernate4.validator>4.3.2.Final</version.hibernate4.validator>
         <version.org.json>20150729</version.org.json>
-        <version.org.richfaces>4.5.7.Final</version.org.richfaces>
+        <version.org.richfaces>4.5.17.Final</version.org.richfaces>
         <version.ro.isdc.wro4j>1.7.9</version.ro.isdc.wro4j>
 
         <jboss.developer.drupal.url>http://rhdp-drupal.stage.redhat.com/</jboss.developer.drupal.url>
@@ -296,7 +296,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -315,7 +315,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -334,7 +334,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
